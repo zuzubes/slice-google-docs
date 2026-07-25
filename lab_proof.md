@@ -1,6 +1,9 @@
 Author: Mudit Airan
 Description: Build and evaluate different Ways to Chunk Podcast and PDF path and prove the answer is grounded in inspectable evidence.
 
+I used the pdf and podcast (generated in the project in week 2) saved in the data folder - 
+podcast -  data/CVX_manufacturing_podcast.mp3
+pdf - data/The AI Ladder.pdf
 
 Fixed size chunking - fixed_size_chunking_analysis.md
 Recursive character chunking - recursive_character_chunking_analysis.md
